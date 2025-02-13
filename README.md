@@ -5,7 +5,7 @@
 - 📫 How to reach me - my last name (Burstein), first initial (C) at gmail!
 - Stuff I use... [TiddlyWiki](https://tiddlywiki.com) , [Little Link](https://littlelink.io) , [1600pr](https://github.com/andersju/1600pr.sh) , [evenbettermotherfuckingwebsite](https://github.com/setetres/evenbettermotherfuckingwebsite)
 
-Test to see if this works?
+Test to see if this works? it's 5:51am
 
 <!---
 chaimburstein/chaimburstein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
